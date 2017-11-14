@@ -1,0 +1,10 @@
+└── VOCdevkit
+    └── VOC2012　
+        ├── Annotations　　
+        ├── ImageSets　　
+        │   ├── Layout　　
+        │   ├── Main　　
+        │   └── Segmentation　　
+        ├── JPEGImages　　
+        ├── SegmentationClass　　
+        └── SegmentationObject
